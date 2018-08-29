@@ -9,7 +9,7 @@ To check if git is installed run `git --version`. If it is not installed do one 
 
 brew install node
 
-# Ensure Every one has a github account
+## Ensure Every one has a github account
 
 ### Windows / Mac Download
 
@@ -43,19 +43,14 @@ Students will need to know and get comfortable with the following commands and u
 - code .: Opens vscode at this location.
 
 
-Explain git:
-We can use git with the command line, (give demonstration)
-But VS Code does everything we need to do, so we’re going to learn how to use git inside VS Code
+set user info for git on terminal
 
-2:45-2:55 git intro, git init
-2:55 - 3:05 git status, git add
-3:05-3:10 git commit
-3:10-3:15 git push
-3:15-3:20 git clone
+## Login Info
+- git config --global user.name "____"
 
 
-mac questions
-
+## Mac Specific
+>shell command
 
 - Open Terminal found in Finder > Applications > Utilities
 - In Terminal, paste the following: `defaults write com.apple.finder AppleShowAllFiles YES`
